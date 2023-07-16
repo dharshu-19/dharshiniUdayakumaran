@@ -1,14 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Dharshini Udayakumaran</h1>
-<h3 align="center">"The Full Stack Puzzle: Piecing Together Innovation and Expertise"</h3>
+<h3 align="center">"The Full Stack Puzzle: Piecing Together Innovation and Expertise"</h3><br><br>
 
+<p>Hello everyone! I'm an enthusiastic junior Fullstack developer. My journey in this field started from scratch, and I'm eager to continue growing and learning. Consistency is key in the life of a programmer, and I'm determined to keep pushing myself to new heights.
 
+Python is my passion, and I find great joy in problem-solving. As a student at KGISL Institute of Technology and currently interning at KGXperience, I'm constantly seeking opportunities to expand my skills and knowledge. I believe that learning should never stop, especially in the dynamic world of programming.
+
+Join me on this exciting journey of exploration and development. Together, let's unlock the endless possibilities and pave the way for a successful career as programmers and developers.</p><br>
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **webpage Development**
 
-- 📫 How to reach me **dharshiniudayakumaran2002@gmail.com**
+- 📫 How to reach me **dharshiniudayakumaran2002@gmail.com**<br><br>
 
+
+
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshu-19&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/dharshiniuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dharshiniuday" height="30" width="40" /></a><br><br>
