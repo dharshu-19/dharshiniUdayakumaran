@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dharshini Udayakumaran</h1>
 <h3 align="center">"The Full Stack Puzzle: Piecing Together Innovation and Expertise"</h3><br><br>
 
+![image](https://github.com/dharshu-19/dharshiniUdayakumaran/assets/96525555/ce654afd-0a6c-47c2-8f2c-c30710f1ce32)
+
+
 <p>Hello everyone! I'm an enthusiastic junior Fullstack developer. My journey in this field started from scratch, and I'm eager to continue growing and learning. Consistency is key in the life of a programmer, and I'm determined to keep pushing myself to new heights.
 
 Python is my passion, and I find great joy in problem-solving. As a student at KGISL Institute of Technology and currently interning at KGXperience, I'm constantly seeking opportunities to expand my skills and knowledge. I believe that learning should never stop, especially in the dynamic world of programming.
@@ -18,10 +21,10 @@ Join me on this exciting journey of exploration and development. Together, let's
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshu-19&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dharshiniuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dharshiniuday" height="30" width="40" /></a><br><br>
-<a href="https://linkedin.com/in/dharshini-udayakumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshini-udayakumaran" height="30" width="40" /></a><br><br>
-<a href="https://instagram.com/@dharshini_udayakumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dharshini_udayakumaran" height="30" width="40" /></a><br><br>
-<a href="https://www.codechef.com/users/@dharshu19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@dharshu19" height="30" width="40" /></a><br><br>
+<a href="https://twitter.com/https://twitter.com/dharshiniuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dharshiniuday" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharshini-udayakumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshini-udayakumaran" height="30" width="40" /></a>
+<a href="https://instagram.com/@dharshini_udayakumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dharshini_udayakumaran" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/@dharshu19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@dharshu19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br>
@@ -29,7 +32,8 @@ Join me on this exciting journey of exploration and development. Together, let's
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshiniudayakumaran&show_icons=true&locale=en&layout=compact" alt="dharshiniudayakumaran" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshiniudayakumaran&" alt="dharshiniudayakumaran" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshu-19&" alt="dharshiniudayakumaran" /></p>
+
 
 
 [![@dharshu's Holopin board](https://holopin.me/dharshu)](https://holopin.io/@dharshu)
