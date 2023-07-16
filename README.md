@@ -10,6 +10,8 @@
 Python is my passion, and I find great joy in problem-solving. As a student at KGISL Institute of Technology and currently interning at KGXperience, I'm constantly seeking opportunities to expand my skills and knowledge. I believe that learning should never stop, especially in the dynamic world of programming.
 
 Join me on this exciting journey of exploration and development. Together, let's unlock the endless possibilities and pave the way for a successful career as programmers and developers.</p><br>
+<IMG align="right"   height=200px  SRC="https://github.com/dharshu-19/dharshiniUdayakumaran/blob/main/full-stack-development.gif?raw=true">
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **webpage Development**
